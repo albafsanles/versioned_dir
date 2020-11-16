@@ -9,3 +9,5 @@ For example, in this first version of the file we
 will say that the cat goes meow.
 
 This line was added from GitHub
+
+And this one to a new branch
